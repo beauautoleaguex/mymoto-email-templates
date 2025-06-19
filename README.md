@@ -98,10 +98,7 @@ logo-mymoto.svg          # Vector version
 ```
 
 **Handling Complex Assets:**
-- Torn paper effects
-- Gradient overlays
-- Combined logos
-- Social media icons
+- Prompting may be required to iterate via agentic coding
 
 ### 5. Preparing for Mailchimp
 
