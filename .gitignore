@@ -1,0 +1,22 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+
+# Test output
+*.test.html
+
+# Environment files
+.env
+.env.local
+
+# MCP tokens
+.claude/mcp_settings.json
